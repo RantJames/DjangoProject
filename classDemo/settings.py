@@ -82,11 +82,11 @@ DATABASES = {
     # }
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'django_tut',
+        'NAME': 'ra_james',
         'HOST': '127.0.0.1',
-        'PORT': '3306',
-        'USER': 'root',
-        'PASSWORD': 'RUbin@12345'
+        'PORT': '8001',
+        'USER': 'ra_james',
+        'PASSWORD': 'A00455851!cda'
     }
 }
 
